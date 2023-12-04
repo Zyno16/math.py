@@ -1,0 +1,16 @@
+import math
+print(math.pi)
+print(math.sqrt(81.8))
+print(round(1.5))
+print(round(2.9))
+print(math.floor(1.99))
+print(math.ceil(1.1))
+print(abs(-20))
+print(math.fabs(-30))
+print(pow(5,3))
+print(math.pow(5,3))
+print(math.factorial(5))
+print(sum([1,2,3,4,5,6,7,8,9]))
+print(math.fsum([1,2,3,4,5,6,7,8,9]))
+s =[2500,1900,1800,2000,1700,3500]
+print(sum(s)/len(s))
